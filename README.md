@@ -42,14 +42,9 @@ ionic cordova run android
 
 ## Author
 
-👤 **Cristian González**
+👤 **David Rodríguez**
 
-* Twitter: [@cristiang](https://twitter.com/cristiang)
-* Github: [@cristian-g](https://github.com/cristian-g)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/cristian-g/outgogo-app/issues).
+* Github: [@DajuuDev](https://github.com/DajuuDev)
 
 ## Show your support
 
