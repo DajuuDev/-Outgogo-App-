@@ -1,16 +1,3 @@
-<h1 align="center">Outgogo app con Ionic</h1>
-<p align="center">
-    <img src="docs/sticker-outgogo-net.png">
-</p>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="http://www.cristiangonzalez.com/portfolio/outgogo/">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
-  </a>
-  <a href="https://twitter.com/cristiang">
-    <img alt="Twitter: cristiang" src="https://img.shields.io/twitter/follow/cristiang.svg?style=social" target="_blank" />
-  </a>
-</p>
 
 Gestiona fácilmente los gastos de tu vehículo compartido o multipropiedad.
 
